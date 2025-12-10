@@ -1,0 +1,9 @@
+Generate a complete, functional, and visually appealing Unity shader in HLSL.
+
+Description: {description}
+Surface Type: {surface_type}
+Lighting Type: {lighting_type}
+Complexity: {complexity}
+Shader Type: {shader_type}
+
+Shader:"""

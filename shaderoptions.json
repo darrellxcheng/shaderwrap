@@ -1,0 +1,29 @@
+{
+    "surface_type":
+    {
+        "transparent" : "transparent",
+        "opaque" : "opaque"
+    },
+    "lighting_type":
+    {
+        "complex lit" : "complex lit",
+        "lit": "lit",
+        "simple lit" : "simple lit",
+        "baked lit" : "baked lit",
+        "unlit" : "unlit"
+    },
+    "complexity_level":
+    {
+        "simple" : "simple",
+        "moderate" : "moderate",
+        "complex" : "complex"
+    },
+    "shader_type":
+    {
+        "physical": "physical shader",
+        "particle" : "particle shader",
+        "raytracing" : "raytracing shader",
+        "cutout" : "cutout shader",
+        "compute" : "compute shader"
+    }
+}
